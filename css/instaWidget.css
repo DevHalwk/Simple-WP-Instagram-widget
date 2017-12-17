@@ -1,0 +1,56 @@
+   /*
+                    ===============================
+                             Instagram Widget
+                    ===============================
+                    */
+                    .insta-boxed li{
+                        
+                    }
+                    .sidebar-instagram-pics{
+                      list-style: none;
+                          margin: 0;
+                        padding: 0;
+
+                      li{
+                        width: 33.33333333333333% ;
+                        display: inline-block;;
+                        float: left;
+                        list-style: none;
+                        padding: 3px;
+
+                      }
+                    }
+
+                    .instagram-pics{
+                      list-style: none;
+                          margin: 0;
+                        padding: 0;
+
+                      li{
+                        width: 12.5%;
+                        display: inline;
+                        float: left;
+                        list-style: none;
+                        a:hover{
+                          opacity: 0.9;
+                        }
+
+                      }
+                    }
+                    .instagram-title{
+                      text-transform: uppercase;
+                      font-size: 16px;
+                      margin-bottom: 22px;
+                      font-family: inherit;
+                      box-shadow: 0px 0px 1px 0px;
+                      display: inline-block;
+                      padding: 10px;
+                    }
+                    .footer-instagram{
+                      text-align: center;
+                      overflow: hidden;
+                    }
+                    .instagram-lable{
+                      margin: 0;
+                      padding: 0;
+                  }
